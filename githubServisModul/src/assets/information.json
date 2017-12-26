@@ -1,0 +1,251 @@
+{
+    "items": [
+        {
+            "name": "Hat-1(Üsküdar-Umuttepe)",
+            "children": [
+                
+                {
+                    "name": "Selimiye",
+                    "children": [
+                        {
+                            "name": "1.Durak",
+                            "information": "Sağlık Bilimleri Üniversitesi önü",
+                            "watch": "06:20"
+                        },
+                        {
+                            "name": "2.Durak",
+                            "information": "Karacaahmet mezarlığı önü",
+                            "watch": "06:30"
+                        }
+                        
+                    ]
+                },
+                {
+                    "name": "Altunizade",
+                    "children": [
+                        {
+                            "name": "1.Durak",
+                            "information": "VFS Global önü",
+                            "watch": "06:40"
+                        },
+                        {
+                            "name": "2.Durak",
+                            "information": "Haydarpaşa Lisesi önü",
+                            "watch": "06:50"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hat-2(Kartal-Umuttepe)",
+            "children": [
+                {
+                    "name": "Soğanlık",
+                    "children": [
+                        {
+                            "name": "1.Durak",
+                            "information": "Kent Plus önü",
+                            "watch": "07:10"
+                        },
+                        {
+                            "name": "2.Durak",
+                            "information": "Şehit Erdal Parkı önü",
+                            "watch": "07:20"
+                        }
+                    ]
+                },
+                {
+                    "name": "Uğur Mumcu",
+                    "children": [
+                        {
+                            "name": "1.Durak",
+                            "information": "Şelale Parkı önü.",
+                            "watch": "07:45"
+                        },
+                        {
+                            "name": "2.Durak",
+                            "information": "Aydos Orman Park önü",
+                            "watch": "07:50"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hat-3(Kadıköy-Umuttepe",
+            "children": [
+                {
+                    "name": "Fenerbahçe",
+                    "children": [
+                        {
+                            "name": "1.Durak",
+                            "information": "Kalamış Atatürk Parkı önü",
+                            "watch": "06:35"
+                        },
+                        {
+                            "name": "2.Durak",
+                            "information": "MedAmerikan Tıp Merkezi önü",
+                            "watch": "06:50"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bostancı",
+                    "children": [
+                        {
+                            "name": "1.Durak",
+                            "information": "Cavit Paşa Köşkü önü",
+                            "watch": "07:00"
+                        },
+                        {
+                            "name": "2.Durak",
+                            "information": "Bostancı Metro İstasyonu önü",
+                            "watch": "07:25"
+                        },
+                        {
+                            "name": "3.Durak",
+                            "information": "Leman Kaya İlkokulu Önü",
+                            "watch": "07:40"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hat-4 (Ümraniye-Umuttepe)",
+            "children": [
+                {
+                    "name": "Ataşehir",
+                    "children": [
+                        {
+                            "name": "1.Durak",
+                            "information": "Ümraniye Metro İstasyonu önü",
+                            "watch": "06:40"
+                        },
+                        {
+                            "name": "2.Durak",
+                            "information": "Çakmak Metro İstasyonu Önü",
+                            "watch": "07:00"
+                        }
+                    ]
+                },
+                {
+                    "name": "Esenşehir",
+                    "children": [
+                        {
+                            "name": "1.Durak",
+                            "information": "Ağaoğlu Eltes Güneşi Sosyal Tesisler",
+                            "watch": "07:25"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hat-5(Beylikdüzü-Umuttepe)",
+            "children": [
+                {
+                    "name": "Gürpınar",
+                    "children": [
+                        {
+                            "name": "1.Durak",
+                            "information": "Gürpınar Sahil Piri Reis Parkı önü",
+                            "watch": "06:00"
+                        },
+                        {
+                            "name": "2.Durak",
+                            "information": "Cumhuriyet Parkı",
+                            "watch": "06:20"
+                        }
+                    ]
+                },
+                {
+                    "name": "Yakuplu",
+                    "children": [
+                        {
+                            "name": "1.Durak",
+                            "information": "Maçka Evleri",
+                            "watch": "07:00"
+                        },
+                        {
+                            "name": "2.Durak",
+                            "information": "Beylikdüzü Hastanesi",
+                            "watch": "07:30"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hat-6 (Avcılar-Umuttepe)",
+            "children": [
+                {
+                    "name": "Merkez",
+                    "children": [
+                        {
+                            "name": "1.Durak",
+                            "information": "Ulusal Egemenlik Parkı Ve Atatürk Evi Müzesi önü",
+                            "watch": "06:40"
+                        },
+                        {
+                            "name": "2.Durak",
+                            "information": "Pelican Mall önü",
+                            "watch": "07:00"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gümüşpala",
+                    "children": [
+                        {
+                            "name": "1.Durak",
+                            "information": "Halûk Perk Müzesi önü",
+                            "watch": "07:20"
+                        },
+                        {
+                            "name": "2.Durak",
+                            "information": "Bitki Dünyası",
+                            "watch": "07:35"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hat-7(Beykoz Umuttepe)",
+            "children": [
+                {
+                    "name": "Anadolu Hisarı",
+                    "children": [
+                        {
+                            "name": "1.Durak",
+                            "information": "Körfez Caddesi",
+                            "watch": "06:35"
+                        },
+                        {
+                            "name": "2.Durak",
+                            "information": "Otağtepe Caddesi",
+                            "watch": "07:00"
+                        }
+                    ]
+                },
+                {
+                    "name": "Merkez",
+                    "children": [
+                        {
+                            "name": "1.Durak",
+                            "information": "Özel Beykoz Tıp Merkezi",
+                            "watch": "07:15"
+                        },
+                        {
+                            "name": "2.Durak",
+                            "information": "Beykoz Grup Amirliği İtfaiye Daire Başkanlığı önü",
+                            "watch": "07:35"
+                        }
+                    ]
+                } 
+            ]
+        }   
+    ]
+}

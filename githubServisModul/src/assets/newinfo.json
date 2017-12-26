@@ -1,0 +1,279 @@
+{
+    "items": [
+        {
+            "name": "Hat-1(Üsküdar-Umuttepe)",
+            "children": [
+                
+                {
+                    "name": "Selimiye",
+                    "children": [
+                        {
+                            "name": "1.Durak-Sağlık Bilimleri Üniversitesi",
+                            "information": "Sağlık Bilimleri Üniversitesi önü",
+                            "lat": 41.005033,
+                            "long": 29.021454
+                        },
+                        {
+                            "name": "2.Durak-Karacaahmet mezarlığı",
+                            "information": "Karacaahmet mezarlığı önü",
+                            "lat": 41.009700,
+                            "long": 29.022444
+                        }
+                        
+                    ]
+                },
+                {
+                    "name": "Altunizade",
+                    "children": [
+                        {
+                            "name": "1.Durak-VFS Global",
+                            "information": "VFS Global önü",
+                            "lat":41.020569,
+                            "long": 29.046487
+                        },
+                        {
+                            "name": "2.Durak-Haydarpaşa Lisesi",
+                            "information": "Haydarpaşa Lisesi önü",
+                            "lat": 41.017348, 
+                            "long":29.047548 
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hat-2(Kartal-Umuttepe)",
+            "children": [
+                {
+                    "name": "Soğanlık",
+                    "children": [
+                        {
+                            "name": "1.Durak-Kent Plus",
+                            "information": "Kent Plus önü",
+                            "lat":40.921321,
+                            "long":29.184341
+                        },
+                        {
+                            "name": "2.Durak-Şehit Erdal Parkı",
+                            "information": "Şehit Erdal Parkı önü",
+                            "lat": 40.917754, 
+                            "long":29.200052
+                        }
+                    ]
+                },
+                {
+                    "name": "Uğur Mumcu",
+                    "children": [
+                        {
+                            "name": "1.Durak-Şelale Parkı",
+                            "information": "Şelale Parkı önü.",
+                            "lat":40.934627,
+                            "long":29.213268
+                        },
+                        {
+                            "name": "2.Durak-Aydos Orman Park",
+                            "information": "Aydos Orman Park önü",
+                            "lat": 40.939822, 
+                            "long":29.217377
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hat-3(Kadıköy-Umuttepe",
+            "children": [
+                {
+                    "name": "Fenerbahçe",
+                    "children": [
+                        {
+                            "name": "1.Durak-Kalamış Atatürk Parkı",
+                            "information": "Kalamış Atatürk Parkı önü",
+                            "lat":40.979890,
+                            "long": 29.039087
+                        },
+                        {
+                            "name": "2.Durak-MedAmerikan Tıp Merkezi",
+                            "information": "MedAmerikan Tıp Merkezi önü",
+                            "lat":40.978032,
+                            "long": 29.046611
+                        }
+                    ]
+                },
+                {
+                    "name": "Bostancı",
+                    "children": [
+                        {
+                            "name": "1.Durak-Cavit Paşa Köşkü",
+                            "information": "Cavit Paşa Köşkü önü",
+                            "lat":40.956466, 
+                            "long":29.088891
+                        },
+                        {
+                            "name": "2.Durak-Bostancı Metro İstasyonu",
+                            "information": "Bostancı Metro İstasyonu önü",
+                            "lat": 40.964783,
+                            "long": 29.10458
+                        },
+                        {
+                            "name": "3.Durak-Leman Kaya İlkokulu",
+                            "information": "Leman Kaya İlkokulu Önü",
+                            "lat": 40.958599,
+                            "long": 29.109274
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hat-4 (Ümraniye-Umuttepe)",
+            "children": [
+                {
+                    "name": "Ataşehir",
+                    "children": [
+                        {
+                            "name": "1.Durak-Ümraniye Metro İstasyonu",
+                            "information": "Ümraniye Metro İstasyonu önü",
+                            "lat": 41.024702,
+                            "long":29.086333
+                        },
+                        {
+                            "name": "2.Durak-Çakmak Metro İstasyonu",
+                            "information": "Çakmak Metro İstasyonu Önü",
+                            "lat":41.020695,
+                            "long":29.120116
+                        }
+                    ]
+                },
+                {
+                    "name": "Esenşehir",
+                    "children": [
+                        {
+                            "name": "1.Durak-Ağaoğlu Eltes Güneşi Sosyal Tesisler",
+                            "information": "Ağaoğlu Eltes Güneşi Sosyal Tesisler",
+                            "lat":41.009777, 
+                            "long":29.179225
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hat-5(Beylikdüzü-Umuttepe)",
+            "children": [
+                {
+                    "name": "Gürpınar",
+                    "children": [
+                        {
+                            "name": "1.Durak-Gürpınar Sahil Piri Reis Parkı",
+                            "information": "Gürpınar Sahil Piri Reis Parkı önü",
+                            "lat":40.976784,
+                            "long": 28.598089
+                        },
+                        {
+                            "name": "2.Durak-Cumhuriyet Parkı",
+                            "information": "Cumhuriyet Parkı",
+                            "lat": 40.994550, 
+                            "long":29.108088
+                        }
+                    ]
+                },
+                {
+                    "name": "Yakuplu",
+                    "children": [
+                        {
+                            "name": "1.Durak-Maçka Evleri",
+                            "information": "Maçka Evleri",
+                            "lat":40.987825,
+                            "long": 28.676856
+                        },
+                        {
+                            "name": "2.Durak-Beylikdüzü Hastanesi",
+                            "information": "Beylikdüzü Hastanesi",
+                            "lat": 41.015873,
+                            "long":28.626302
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hat-6 (Avcılar-Umuttepe)",
+            "children": [
+                {
+                    "name": "Merkez",
+                    "children": [
+                        {
+                            "name": "1.Durak-Ulusal Egemenlik Parkı Ve Atatürk Evi Müzesi",
+                            "information": "Ulusal Egemenlik Parkı Ve Atatürk Evi Müzesi önü",
+                            "lat": 40.972316,
+                            "long":28.714483
+                        },
+                        {
+                            "name": "2.Durak-Pelican Mall",
+                            "information": "Pelican Mall önü",
+                            "lat": 40.990728,
+                            "long": 28.714300
+                        }
+                    ]
+                },
+                {
+                    "name": "Gümüşpala",
+                    "children": [
+                        {
+                            "name": "1.Durak-Halûk Perk Müzesi",
+                            "information": "Halûk Perk Müzesi önü",
+                            "lat":40.982011,
+                            "long":28.729518
+                        },
+                        {
+                            "name": "2.Durak-Bitki Dünyası",
+                            "information": "Bitki Dünyası",
+                            "lat":41.011426,
+                            "long": 29.052689
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hat-7(Beykoz Umuttepe)",
+            "children": [
+                {
+                    "name": "Anadolu Hisarı",
+                    "children": [
+                        {
+                            "name": "1.Durak-Körfez Caddesi",
+                            "information": "Körfez Caddesi",
+                            "lat": 41.089597,
+                            "long":29.066379
+                        },
+                        {
+                            "name": "2.Durak-Otağtepe Caddesi",
+                            "information": "Otağtepe Caddesi",
+                            "lat":41.087276,
+                            "long": 29.075279
+                        }
+                    ]
+                },
+                {
+                    "name": "Merkez",
+                    "children": [
+                        {
+                            "name": "1.Durak-Özel Beykoz Tıp Merkezi",
+                            "information": "Özel Beykoz Tıp Merkezi",
+                            "lat": 41.139623, 
+                            "long":29.094065
+                        },
+                        {
+                            "name": "2.Durak-Beykoz Grup Amirliği İtfaiye Daire Başkanlığı",
+                            "information": "Beykoz Grup Amirliği İtfaiye Daire Başkanlığı önü",
+                            "lat": 41.134495, 
+                            "long":29.098087
+                        }
+                    ]
+                } 
+            ]
+        }   
+    ]
+}
